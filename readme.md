@@ -241,20 +241,5 @@ MIT License © 2025 Ganapathi Kodi
 
 **Lakshmi Ganapathi Kodi**
 *B.Tech Mathematics & Computing, NIT Mizoram*
-GitHub: [@ganapathikodi](https://github.com/ganapathikodi)
+GitHub: [@ganapathikodi](https://github.com/ganapathi1578)
 
-
----
-
-```
-
-Let me know if you want:
-- A matching `requirements.txt`
-- A polished `asgi.py` setup with routing
-- A sample House (Client) implementation script
-
-This `README.md` is ready to be published.
-```
-
-
-# ghostport
