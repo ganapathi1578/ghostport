@@ -1,9 +1,4 @@
-Here’s a **complete** `README.md` for your project **Ghost Port** — written clearly for contributors, developers, and future yourself. It includes project overview, setup instructions (Windows/Linux), architecture, tech stack, usage, and more.
 
-
----
-
-```markdown
 # 👻 Ghost Port
 
 **Ghost Port** is a lightweight, secure, WebSocket-based tunneling system that connects a central **Hub** to remote **Clients (Houses)** across firewalls, CGNATs, or private networks.
